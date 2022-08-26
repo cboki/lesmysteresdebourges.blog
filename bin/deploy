@@ -1,0 +1,4 @@
+#! /bin/sh
+
+jekyll build
+rsync -va _site/ ../lesmysteresdebourges.fr/public/blog

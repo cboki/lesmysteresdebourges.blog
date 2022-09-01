@@ -1,0 +1,25 @@
+---
+layout: single
+title:  "1080"
+categories: general
+header:
+  image: /assets/images/1200x630-1080.jpg
+  image_description: "Sophie et Clément Bouakkaz sur les 2 vélos cargos des Mystères de Bourges, Place Etienne Dolet à Bourges"
+excerpt: "Premier billet du blog des Mystères de Bourges."
+---
+
+Voilà 1080 jours que nous avons, ma soeur et moi, créé *les Mystères de Bourges*.
+
+Quasiment 3 ans donc, depuis que nous avons officiellement lancé le premier parcours-jeu de piste façon escape game "A Vaillant Coeur" puis enregistré l'entreprise au Registre du Commerce et des Sociétés.
+
+Beaucoup de choses sont arrivées depuis: une pandémie inattendue, des joueurs (quasiment 8000 à l'heure où j'écris ce petit billet), des amis.
+
+Aujourd'hui, nous lançons simplement ce blog. Un nouvel espace pour vous partager de nouvelles idées.
+
+Vous y retrouverez à la fois, pêle-mêle, les actualités et les annonces des nouveautés à venir, des idées que nous explorons au sujet des prochains projets, des connaissances sur le patrimoine, des tutos, des vidéos, que sais-je encore... Un petit peu tout ce que nous jugerons utile à vous partager et ce que nous aurons le temps d'écrire.
+
+Il n'y a pas réellement de ligne éditoriale, ni de fréquence de publication arrêtée. Juste un nouvel espace de dialogue supplémentaire entre nous et avec vous, nos très chers lecteurs.
+
+Bonne lecture !
+
+Clément

@@ -1,4 +1,4 @@
 #! /bin/sh
 
-jekyll build
+JEKYLL_ENV=production jekyll build
 rsync -va _site/ ../lesmysteresdebourges.fr/public/blog

@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "1080"
-categories: general
 header:
   image: /assets/images/1200x630-1080.jpg
   image_description: "Sophie et Clément Bouakkaz sur les 2 vélos cargos des Mystères de Bourges, Place Etienne Dolet à Bourges"

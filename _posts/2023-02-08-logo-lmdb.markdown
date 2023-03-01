@@ -1,0 +1,38 @@
+---
+layout: single
+title:  "5 infos sur notre logo"
+header:
+  image: /assets/images/1200x630-logo.jpg
+  image_description: "Sophie cherche quelque chose dans le triporteur LMDB de Clément"
+excerpt: "L'explication de notre logo."
+---
+
+Un logo, c’est important. C’est toute l’image de l’entreprise qui doit passer par cette petite image, censée nous représenter. Pour nous, c’est ce grand M, celui du mot Mystère, qui nous représente bien. Magie, micro-entreprise, majuscule, minutes, musée, monument, mémoire, médiéval, métier, moments, multijoueur, montre : que de jolis mots qui commencent par cette lettre et qui en disent beaucoup sur nous !
+
+## → M comme… micro-entreprise, un métier et quelques mésaventures ! 👩🏻‍💻🧑🏻‍💻
+
+Lorsque nous nous sommes lancés en 2019 en tant que micro-entrepreneurs avec les Mystères de Bourges, nous avons associé le patrimoine au jeu pour en faire notre métier. Le début d’une grande aventure : [deux parcours](https://www.lesmysteresdebourges.fr/parcours), une campagne de financement participatif, deux vélos, un Wine gaming et un local plus tard… On continue à avoir des idées pour vous faire découvrir la ville, malgré quelques mésaventures en cours de route : panne d’inspiration, mauvais choix, délais administratifs, projets abandonnés, doutes…
+
+## → M comme… moments magiques en mode multijoueur ! ✨
+
+Anniversaire, retrouvailles en famille, séminaire d’entreprise, team building, EVJF, EVG, ou simple après-midi entre amis… Toutes les occasions sont bonnes pour vous faire vivre des moments magiques en équipe autour de notre [Wine gaming](https://www.lesmysteresdebourges.fr/wine-gaming) destiné aux professionnels ou contre d’autres équipes, sur nos parcours !
+
+## → M comme… musée, monuments ou encore Moyen âge  ! 🏰
+
+Nos jeux, on les envisage comme une visite de musée en plein air, autour de monuments emblématiques et d’autres lieux moins connus. Avec nos parcours, on aime vous faire découvrir la ville et son histoire autrement, notamment la période médiévale ! Un moyen pour nous de vous en apprendre un peu plus sur le patrimoine berruyer tout en vous amusant.
+
+## → M comme… montre et minutes ! ⏱️
+
+Une montre pourrait vous être utile sur nos parcours : déjà, parce que nous vous proposons de jouer avec le temps, en allant explorer la ville médiévale ou renaissante. Mais une montre pourra vous être bien utile pour pour compter les minutes qu’il vous reste pour finir votre quête…
+
+## → M comme… Merci 🙏
+
+Ce logo, nous l'avons imaginé avec un ami d'enfance devenu graphiste et artiste, [Nicolas Témieau](https://www.nicolastemieau.com). C'est à lui que l'on doit les recherches graphiques et la réalisation complète de la charte graphique que nous utilisons aujourd'hui, avec le logo, les polices d'écriture ainsi que les couleurs. Merci Nico !
+
+## → Mais pourquoi M comme… majuscule ? 🔠
+
+Les joueurs venus sur le parcours la Grande His’Tory le savent : oui, c’est bien à Geoffroy Tory que nous avons emprunté cette lettre pour donner une identité visuelle aux Mystères de Bourges !
+
+Geoffroy Tory, berruyer, premier imprimeur de François Ier, a popularisé les capitales d’imprimerie au XVIe siècle, et les a dotés d’un système de marquage fait de points et de croix pour standardiser l'écriture…
+
+Nous sommes très attachés à ce personnage trop méconnu du paysage berruyer, si bien qu’il a trouvé une place dans notre catalogue de jeux avec un parcours qui lui est dédié. Et si vous ne le saviez pas, il va falloir venir jouer à [La Grand’His’Tory](https://www.lesmysteresdebourges.fr/parcours/la-grande-history) !

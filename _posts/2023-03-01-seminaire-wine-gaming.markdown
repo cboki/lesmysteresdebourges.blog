@@ -12,7 +12,7 @@ excerpt: "Vous ne savez pas si le Wine Gaming conviendrait à votre séminaire d
 
 ## 1. Partager autour d’un bon verre de vin permet de briser la glace lorsque les gens ne se connaissent pas 🍷
 
-Il s’agit là de l’un des pouvoirs du jeu. Ou peut-être du vin. Ou bien les deux, et c'est pourquoi [le Wine Gaming](https://www.lesmysteresdebourges.fr/wine-gaming) est idéal. Il possède un super-pouvoir commun au jeu et au vin : celui de rassembler des gens qui se connaissent pas forcément. Combiner le vin et le jeu, c’est mettre toutes les chances de son côté pour créer une ambiance agréable, conviviale et chaleureuse. Même entre des gens qui ne se sont jamais croisé. Chacun va être amené à engager la conversation avec les autres membres de son équipe durant toute la durée du jeu pour que le collectif avance.
+Il s’agit là de l’un des pouvoirs du jeu. Ou peut-être du vin. Ou bien les deux, et c'est pourquoi [le Wine Gaming](https://www.lesmysteresdebourges.fr/wine-gaming) est idéal. Il possède un super-pouvoir commun au jeu et au vin : celui de rassembler des gens qui se connaissent pas forcément. Combiner le vin et le jeu, c’est mettre toutes les chances de son côté pour créer une ambiance agréable, conviviale et chaleureuse. Même entre des gens qui ne se sont jamais croisés. Chacun va être amené à engager la conversation avec les autres membres de son équipe durant toute la durée du jeu pour que le collectif avance.
 
 ## 2. Les échanges autour d’une dégustation sont fédérateurs 🍸 
 
@@ -44,5 +44,5 @@ Cela ne tient alors qu'à vous de profiter de ce moment pour observer le comport
 
 ## Appelez pour planifier, on s’occupe du reste. 📞
 
-Vous voulez organiser un Wine Gaming pour votre séminaire ? L’avantage du Wine Gaming, c’est qu’il n’y a rien de plus simple : vous connaissez la date et le nombre de personnes qui vont jouer ? [Appelez-nous](https://www.lesmysteresdebourges.fr/contact). Notre jeu est mobile sur toute la région Centre-Val-de-Loire, nous pouvons venir où vous voulez. Et si vous ne savez pas où vous retrouver… Nous connaissons deux ou trois lieux là pour vous accueillir pour un séminaire inoubliable. Nous vous l’apportons avec tout le nécéssaire : du vin, de la bonne humeur et même des animateurs pour la soirée !
+Vous voulez organiser un Wine Gaming pour votre séminaire ? L’avantage du Wine Gaming, c’est qu’il n’y a rien de plus simple : vous connaissez la date et le nombre de personnes qui vont jouer ? [Appelez-nous](https://www.lesmysteresdebourges.fr/contact). Notre jeu est mobile sur toute la région Centre-Val de Loire, nous pouvons venir où vous voulez. Et si vous ne savez pas où vous retrouver… Nous connaissons deux ou trois lieux là pour vous accueillir pour un séminaire inoubliable. Nous vous l’apportons avec tout le nécéssaire : du vin, de la bonne humeur et même des animateurs pour la soirée !
 

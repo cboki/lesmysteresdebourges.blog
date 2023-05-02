@@ -18,21 +18,21 @@ Un séminaire de motivation ou séminaire incentive a de nombreuses utilités :
 
 ## Qui ? Combien de personnes participeront à cette journée ? 👥
 
-Ce genre d'événement rassemble une partie ou l’intégralité des collaborateurs d’une entreprise sur un ou plusieurs jours. Il est donc primordial de connaître le nombre de participant ou une fourchette approximative. Il est en effet impossible de se lancer dans l’organisation d’un évènement sans en avoir déterminé le nombre d’invités. Car peu importe les prestataires à qui vous allez demander des devis : le chiffrage se fait au nombre de participants, qu’il s’agisse d'activités de team building ou cohésion d'équipe, d’un service de traiteurs ou bien encore de nuitées dans un hôtel.
+Ce genre d'événement rassemble une partie ou l’intégralité des collaborateurs d’une entreprise sur un ou plusieurs jours. Il est donc primordial de connaître le nombre de participants ou une fourchette approximative. Il est en effet impossible de se lancer dans l’organisation d’un évènement sans en avoir déterminé le nombre d’invités. Car peu importe les prestataires à qui vous allez demander des devis : le chiffrage se fait au nombre de participants, qu’il s’agisse d'activités de team building ou cohésion d'équipe, d’un service de traiteurs ou bien encore de nuitées dans un hôtel.
 
-Que vous soyez nombreux ou une poignée, il y a toujours des possibilités, mais connaître le nombre de participant va aussi grandement faciliter le choix du lieu, du format ou encore des animations.
+Que vous soyez nombreux ou une poignée, il y a toujours des possibilités, mais connaître le nombre de participants va aussi grandement faciliter le choix du lieu, du format ou encore des animations.
 
 ## Où ? Il me faut un lieu pour mon séminaire ! 📍
 
-Généralement, un séminaire d’entreprise est organisé dans un cadre différent de celui des locaux de la société. L’organisateur, dans ce contexte, peut ainsi opter pour plusieurs destinations. Là encore, tout dépend du nombre de personne que vous souhaitez convier à cette réunion, de votre budget et surtout cela dépend également du style que vous voulez donner à cet événement.
+Généralement, un séminaire d’entreprise est organisé dans un cadre différent de celui des locaux de la société. L’organisateur, dans ce contexte, peut ainsi opter pour plusieurs destinations. Là encore, tout dépend du nombre de personnes que vous souhaitez convier à cette réunion, de votre budget et surtout cela dépend également du style que vous voulez donner à cet événement.
 
 Pour vous accompagner, nous connaissons et avons testé déjà pas mal de lieux dans la région, alors on vous facilite la tâche pour trouver, réserver et privatiser le lieu idéal pour votre événement professionnel grâce à notre sélection de coups de cœurs. Vous allez voir, il y en a pour tous les goûts !
 
 **Le plus prestigieux** : Chargée d’histoire et située en pleine nature, l’[abbaye de Noirlac](https://www.abbayedenoirlac.fr/) vous émerveillera grâce à son architecture cistercienne et ses volumes hors du temps. Clairement le lieu de séminaire le plus cool que nous ayons eu à voir depuis le début de notre activité.
 
-Tout aussi charmants, “[La Grange des Saveurs](https://www.lagrangedessaveurs.com/)” ou “la Villa Belle Epoque” sont des lieux plus intimistes mais évidemment tout aussi agréable en proposant des services différenciant comme des prestations de traiteur par exemple.
+Tout aussi charmants, “[La Grange des Saveurs](https://www.lagrangedessaveurs.com/)” ou “la Villa Belle Epoque” sont des lieux plus intimistes mais évidemment tout aussi agréables en proposant des services différents comme des prestations de traiteur par exemple.
 
-**L’inconnu des petits groupes** : En plein centre ville “le parvis des Métiers” possède une des plus belle vue sur la façade occidentale de la cathédrale de Bourges ! Une bonne solution pour ceux qui ne souhaitent pas quitter le centre-ville où qui veulent coupler leur événement avec un jeu de piste ou un restaurant dans la vieille-ville par exemple.
+**L’inconnu des petits groupes** : En plein centre-ville “le parvis des Métiers” possède une des plus belles vues sur la façade occidentale de la cathédrale de Bourges ! Une bonne solution pour ceux qui ne souhaitent pas quitter le centre-ville où qui veulent coupler leur événement avec un jeu de piste ou un restaurant dans la vieille ville par exemple.
 
 Les valeurs sûres :  les hôtels de séminaire les plus branchés et les plus cosy comme le Bourbon / Mercure en plein cœur de Bourges ou le Novotel avec son accès direct depuis l’autoroute ont l’avantage de pouvoir proposer des chambres pour vos convives les plus éloignés. Ils sont bien sûr équipés de salles de conférence ou de réunion adaptées.
 

@@ -15,13 +15,13 @@ excerpt: "Et si l'escape game urbain réunissait de nombreaux atouts pour organi
 
 ## Vous allez vous amuser ! 🤣
 
-En optant pour un escape game urbain pour la mariée ou le marié, vous lui optez pour une activité originale idéale pour rassembler leurs proches autour d’eux. Des fous rires, et du partage, il y en aura. Une fois le sac entre vos mains, l’aventure commence ! C’est parti pour 2 heures environ, lors desquelles vous allez vous créer des moments que vous garderez longtemps en mémoire. On ne se marie qu’une fois, et nos jeux ne se jouent qu’une fois ! Bref, rires, gaffes, esprit d'équipe, rien de mieux pour parfaire votre alliance… Venir jouer, c'est se créer de beaux souvenirs.
+En optant pour un [escape game urbain](https://www.lesmysteresdebourges.fr/parcours) pour la mariée ou le marié, vous lui optez pour une activité originale idéale pour rassembler leurs proches autour d’eux. Des fous rires, et du partage, il y en aura. Une fois le sac entre vos mains, l’aventure commence ! C’est parti pour 2 heures environ, lors desquelles vous allez vous créer des moments que vous garderez longtemps en mémoire. On ne se marie qu’une fois, et nos jeux ne se jouent qu’une fois ! Bref, rires, gaffes, esprit d'équipe, rien de mieux pour parfaire votre alliance… Venir jouer, c'est se créer de beaux souvenirs.
 
 Vous en reparlerez peut-être encore le jour du mariage !
 
 ## Alliances et stratégies 💍
 
-D’ailleurs, en parlant d’alliances… Pour un EVJF ou un EVJG, nous vous recommandons d’opter pour notre second parcours, la Grand’History ! En effet, sur ce jeu, vous pouvez faire jouer plusieurs équipes en simultané : parfait pour mettre un peu de piment et de challenge dans votre journée et la rendre ainsi inoubliable ! Nous accueillons jusqu'à 60 joueurs sur ce parcours, alors vous pouvez même convier une bonne partie des invités si vous le souhaitez.
+D’ailleurs, en parlant d’alliances… Pour un EVJF ou un EVJG, nous vous recommandons d’opter pour notre second parcours, [la Grand’History](https://www.lesmysteresdebourges.fr/parcours/la-grande-history) ! En effet, sur ce jeu, vous pouvez faire jouer plusieurs équipes en simultané : parfait pour mettre un peu de piment et de challenge dans votre journée et la rendre ainsi inoubliable ! Nous accueillons jusqu'à 60 joueurs sur ce parcours, alors vous pouvez même convier une bonne partie des invités si vous le souhaitez.
 
 Ou pourquoi pas organiser un double enterrement pour les marié.e.s, et faire s’affronter les équipes des deux futurs époux ?
 
@@ -43,6 +43,6 @@ Une fois votre mission accomplie, vous êtes déjà en centre-ville : il vous se
 
 ## Rien de plus simple à organiser ☎️
 
-Une seule étape pour réserver : nous appeler. Nombre de participants, parcours de jeu choisi, équipes ou non, date de votre venue… Nous sommes là pour vous conseiller.
+Une seule étape pour réserver : [nous appeler](https://www.lesmysteresdebourges.fr/contact). Nombre de participants, parcours de jeu choisi, équipes ou non, date de votre venue… Nous sommes là pour vous conseiller.
 
 Alors, vous nous appelez quand ?

@@ -11,7 +11,7 @@ excerpt: "Et vous, quelles sont vos techniques pour découvrir une nouvelle vill
 
 ## Bien chercher sur internet 👨🏽‍💻
 
-Tripadivsor, influenceurs spécialisés dans le tourisme, articles de blogs, forums, recommandations Google, conseils d’amis et de la famille qui connaissent le coin… Tout est bon à prendre ! Cette première étape va vous permettre d'établir une liste de choses à faire : des incontournables et des spots moins connus des touristes. À partir de là commence une dure épreuve : faire des choix, car vous ne pourrez jamais tout, tout, tout explorer. Mais, gardez votre liste dans un coin, pour une prochaine fois, ça peut aider !
+[Tripadivsor](https://www.tripadvisor.fr/Attraction_Review-g187120-d19433074-Reviews-Les_mysteres_de_Bourges-Bourges_Cher_Berry_Centre_Val_de_Loire.html), influenceurs spécialisés dans le tourisme, articles de blogs, forums, [recommandations Google](https://g.page/r/CWgKdZSVX4H6EB0/review), conseils d’amis et de la famille qui connaissent le coin… Tout est bon à prendre ! Cette première étape va vous permettre d'établir une liste de choses à faire : des incontournables et des spots moins connus des touristes. À partir de là commence une dure épreuve : faire des choix, car vous ne pourrez jamais tout, tout, tout explorer. Mais, gardez votre liste dans un coin, pour une prochaine fois, ça peut aider !
 
 ## Aller à l’Office de tourisme pour s'équiper 🗺️
 

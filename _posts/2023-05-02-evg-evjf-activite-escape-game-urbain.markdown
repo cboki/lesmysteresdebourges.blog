@@ -1,5 +1,6 @@
 ---
 layout: single
+author: Sassou
 title:  "L’escape game urbain, l'activité parfaite pour un EVJF ou EVG ?"
 header:
   image: /assets/images/1200x630-evg-evjf-activite-escape-game-urbain.jpg

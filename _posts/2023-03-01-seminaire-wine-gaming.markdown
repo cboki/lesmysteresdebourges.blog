@@ -1,5 +1,6 @@
 ---
 layout: single
+author: Sassou
 title:  "5 raisons de choisir le Wine Gaming pour un séminaire d'entreprise"
 header:
   image: /assets/images/1200x630-5-bonnes-raisons-wine-gaming.jpg

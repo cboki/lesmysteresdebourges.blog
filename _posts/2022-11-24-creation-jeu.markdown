@@ -1,5 +1,6 @@
 ---
 layout: single
+author: Sassou
 title:  "Créer un jeu"
 header:
   image: /assets/images/1200x630-creer-un-jeu-blog.jpg

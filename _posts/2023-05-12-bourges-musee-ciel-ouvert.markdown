@@ -1,5 +1,6 @@
 ---
 layout: single
+author: Sassou
 title:  "Bourges, un musée à ciel ouvert ?"
 header:
   image: /assets/images/1200x630-bourges-musee-ciel-ouvert.jpg

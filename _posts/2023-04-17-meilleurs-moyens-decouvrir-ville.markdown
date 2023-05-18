@@ -1,5 +1,6 @@
 ---
 layout: single
+author: Sassou
 title:  "Les meilleurs moyens de découvrir une ville ?"
 header:
   image: /assets/images/1200x630-decouvrir-ville.jpg

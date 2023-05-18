@@ -1,5 +1,6 @@
 ---
 layout: single
+author: Sassou
 title:  "Derrière nos photos Instagram"
 header:
   image: /assets/images/1200x630-posts-intagram.jpg

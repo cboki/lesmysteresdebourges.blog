@@ -1,5 +1,6 @@
 ---
 layout: single
+author: Sassou
 title:  "Quelles questions se poser avant d'organiser un séminaire à Bourges ?"
 header:
   image: /assets/images/1200x630-organiser-seminaire-bourges.jpg

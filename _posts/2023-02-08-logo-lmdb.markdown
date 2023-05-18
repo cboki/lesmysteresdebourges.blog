@@ -1,5 +1,6 @@
 ---
 layout: single
+author: Sassou
 title:  "5 infos sur notre logo"
 header:
   image: /assets/images/1200x630-logo.jpg

@@ -3,8 +3,9 @@ layout: single
 author: Sassou
 title:  "*Flux Libertad* de Maximilianas Oprishka : liberté, technologie et poésie"
 header:
-  image: /assets/images/1200x630-creations-dejan-stojkov.jpg
-  image_description: "Creation, l'oeuvre de Dejan Stojkov, artiste serbe invité, projetée sur la façade de l'Hôtel de Ville de Bourges, place Etienne Dolet pour les Nuits Lumière et la candidature de Bourges 2028 au titre de capitale européenne de la culture."
+  video:
+    id: mYBhVUfj800
+    provider: youtube
 excerpt: "Si vous êtes ici, c’est que vous souhaitez en apprendre un peu plus sur Maximilianas Oprishka et son oeuvre Flux Libertad projetée dans le cadre des Nuits Lumière ! Cet été encore, nous vous accompagnons dans les rues de Bourges pour découvrir ou redécouvrir les illuminations estivales des Nuits Lumière. Pour cela, rien de plus simple : mettez vos écouteurs, chaussez vos meilleures baskets et sortez une fois la nuit tombée."
 ---
 

@@ -3,8 +3,9 @@ layout: single
 author: Sassou
 title:  "*Creations* de Dejan Stojkov : résumer l’histoire de la Serbie en 3 minutes"
 header:
-  image: /assets/images/1200x630-creations-dejan-stojkov.jpg
-  image_description: "Creation, l'oeuvre de Dejan Stojkov, artiste serbe invité, projetée sur la façade de l'Hôtel de Ville de Bourges, place Etienne Dolet pour les Nuits Lumière et la candidature de Bourges 2028 au titre de capitale européenne de la culture."
+  video:
+    id: Xs_zzna0IJs
+    provider: youtube
 excerpt: "Si vous êtes ici, c’est que vous souhaitez en apprendre un peu plus sur Dejan Stojkov et son oeuvre “Creations” projetée dans le cadre des Nuits Lumière ! Cet été encore, nous vous accompagnons dans les rues de Bourges pour découvrir ou redécouvrir les illuminations estivales des Nuits Lumière. Pour cela, rien de plus simple : mettez vos écouteurs, chaussez vos meilleures baskets et sortez une fois la nuit tombée."
 ---
 

@@ -48,8 +48,8 @@ Avant l’annonce de la ville retenue pour devenir capitale européenne de la cu
 
 Qui dit capitale européenne de la culture dit culture. La ville est jugée sur ses initiatives autour du patrimoine et son dynamisme culturel : par exemple, l’organisation de manifestations. Les projets menés par la ville lauréate doivent être envisagés sur le long terme, et avoir des effets sur la qualité de vie et puis largement sur le développement culturel et social.
 
-Qui dit capitale européenne de la culture dire : Europe. La dimension européenne compte dans cette candidature, vous vous en doutez. Elle peut se manifester par des partenariats avec des villes ou institutions européennes, des projets, des thématiques autour de l’Europe…
+Qui dit capitale européenne de la culture dit : Europe. La dimension européenne compte dans cette candidature, vous vous en doutez. Elle peut se manifester par des partenariats avec des villes ou institutions européennes, des projets, des thématiques autour de l’Europe…
 
-Qui dit capitale européenne de la culture dit : population. En effet, une ville n’est rien sans ceux qui l’habitent et la font vivre. L’implication de la population locale est indispensable dans un tel projet !
+Qui dit capitale européenne de la culture dit également : population. En effet, une ville n’est rien sans ceux qui l’habitent et la font vivre. L’implication de la population locale est indispensable dans un tel projet !
 
 Enfin, le budget est évidemment pris en compte, comme le plan de gestion, ainsi que la capacité de la ville candidate à tenir les engagements de son programme.

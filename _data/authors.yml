@@ -1,6 +1,6 @@
 Sassou:
   name             : "Sarah Banmouha"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/author-bonjoursassou-avatar.png"
   bio              : "@bonjoursassou"
   location         : "Quelque part en France"
   email            : 

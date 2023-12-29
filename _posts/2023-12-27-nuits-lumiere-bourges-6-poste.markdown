@@ -45,3 +45,8 @@ Près de 5 siècles après Louis XI, la guerre frappe encore le pays, deux fois,
 Bourges, située en zone Occupée est touchée par la guerre de 39-45. Le Cher est coupé en deux, et la ligne de démarcation est très surveillée. Les allemands entrent à Bourges en juin 1940, et la Gestapo, qui réprime durement tous les actes allant à l’encontre des règles nazies, s’installe rue Michel de Bourges, derrière l’hôtel des Postes. Les allemands profitent de la force aéronautique et industrielle de Bourges.
 
 Toutefois, de nombreux réseaux de résistance se développent dans le Cher. Le 6 septembre 1944, c’est par la rue Moyenne que passe le cortège des FFI du Cher libérant la ville des nazis. Le musée de la résistance et de la déportation du Cher perpétue la mémoire de ces hommes et femmes qui ont défendu la France en secret, et des victimes de ce conflit.
+
+
+## 🎙 Retrouvez le podcast audio
+
+Retrouvez [l'épisode du podcast audio original](https://soundcloud.com/lesmysteresdebourges/6-bourges-un-point-cest-tout-hotel-des-postes) sur Soundcloud.

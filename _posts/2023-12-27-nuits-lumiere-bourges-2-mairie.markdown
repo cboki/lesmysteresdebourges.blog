@@ -64,3 +64,9 @@ En plus du sport, si on parlait un peu de musique ? Pendant quelques jours d’a
 ## 💡 Le saviez-vous ?
 
 Bien avant le Printemps de Bourges, la ville a attiré, grâce à la renommée de l’université de Bourges au XVIe. Elle a hébergé des noms illustres : Jacques Cujas, Théodore de Bèze, André Alciat et Jacques Amyot. Peut-être avez-vous déjà croisé ces noms-là, dans les rues de Bourges ?
+
+
+
+## 🎙 Retrouvez le podcast audio
+
+Retrouvez [l'épisode du podcast audio original](https://soundcloud.com/lesmysteresdebourges/2-bourges-dhier-et-daujourdhui-place-etienne-dolet) sur Soundcloud. Découvrez les épisodes supplémentaires autour de la candidature de Bourges Capitale Européenne de la Culture 2028 avec l'oeuvre de Dejan Stojkov ([sur notre blog](https://www.lesmysteresdebourges.fr/blog/creations-dejan-stojkov/), et en [podcast audio](https://soundcloud.com/lesmysteresdebourges/bonus-2023-mes-nuits-bleues-creations-de-dejan-stojkov)) et celle de Maximilianas Oprishka ([sur notre blog](https://www.lesmysteresdebourges.fr/blog/flux-libertad-maximilianas-oprishka/), et en [podcast audio](https://soundcloud.com/lesmysteresdebourges/bonus-2023-mes-nuits-bleues-flux-libertad-de-maximilianas-oprishka)).

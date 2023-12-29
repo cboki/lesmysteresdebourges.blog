@@ -33,3 +33,8 @@ Cet hôtel doit son nom à ses commanditaires, les frères Lallemant. Ces riche
 À la Renaissance, sont découverts des espèces animales et botaniques, de nouveaux territoires. Sont également redécouverts les traités d’architecture antique, ce qui explique le passage des colombages… à cette belle pierre ! Dans les plans, ce sont le cercle et le carré qui prévalent lors de la construction des édifices de la Renaissance, sur le modèle italien.
 
 L'édifice est plein de surprises : notons les fascinantes et fantastiques sculptures de la cour haute, de l’autre côté, où sirènes et chimères peuplent la façade, mais également les célèbres caissons alchimiques visibles à l’intérieur de l’édifice, devenu un musée d’art ! Parmi eux, se trouve même un ange faisant urinant dans un sabot. Étrange non ? La symbolique du plafond est assez curieuse, et compliquée à saisir, associant des idées dans des images dont on peine à comprendre le sens !
+
+
+## 🎙 Retrouvez le podcast audio
+
+Retrouvez [l'épisode du podcast audio original](https://soundcloud.com/lesmysteresdebourges/3-bourges-renaissant-hotel-lallemant) sur Soundcloud.

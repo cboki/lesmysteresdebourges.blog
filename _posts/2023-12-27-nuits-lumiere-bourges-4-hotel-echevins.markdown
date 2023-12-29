@@ -41,3 +41,9 @@ L’Hôtel des échevins est devenu le musée Estève en 1987, en raison des col
 ## 💡 Le saviez-vous ?
 
 Êtes-vous déjà allés à la galerie La Box ? Elle est située à l'École nationale supérieure des Beaux arts de Bourges, à quelques pas du musée, dans un édifice du XVIIe.
+
+
+
+## 🎙 Retrouvez le podcast audio
+
+Retrouvez [l'épisode du podcast audio original](https://soundcloud.com/lesmysteresdebourges/4-bourges-cite-darts-musee) sur Soundcloud.

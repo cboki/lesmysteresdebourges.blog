@@ -51,3 +51,8 @@ Le Duc Jean de Berry, Valois, était fils, frère et oncle de roi. Il sera un du
 ## 💡 Le saviez-vous ?
 
 Une grosse tour de défense de la  ville s’élevait à deux pas du jardin de l’Archevêché, près de la nouvelle mairie ! On en voit encore le tracé au sol. Prêtez-y attention la prochaine fois !
+
+
+## 🎙 Retrouvez le podcast audio
+
+Retrouvez [l'épisode du podcast audio original](https://soundcloud.com/lesmysteresdebourges/1-il-etait-une-fois-bourges) sur Soundcloud.

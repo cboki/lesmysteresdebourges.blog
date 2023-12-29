@@ -49,3 +49,9 @@ Pendant des années, la Grand'Maison de Jacques Coeur a été convertie en bâti
 Cet influent personnage, dont vous pouvez admirer la statue sur la place, a également laissé son nom à la « route Jacques Coeur » association qui fait la promotion des sites importants de la région de Jacques Coeur.
 
 Toutefois, si vous souhaitez en découvrir un peu plus sur Jacques Coeur, n’hésitez pas à venir essayer [« À vaillant coeur »](https://www.lesmysteresdebourges.fr/parcours/a-vaillant-coeur) notre escape game urbain autour du grand argentier ! Peut-être réussirez-vous à l’aider, face aux injustices de Charles VII, et ainsi, changer le cours de l’histoire ?
+
+
+
+## 🎙 Retrouvez le podcast audio
+
+Retrouvez [l'épisode du podcast audio original](https://soundcloud.com/lesmysteresdebourges/5-bourges-a-coeur-palais) sur Soundcloud.
